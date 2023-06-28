@@ -1,0 +1,8 @@
+#ycm file
+.ycm_extra_conf.py
+
+#build directory
+build/
+
+#todo file
+todo.txt
